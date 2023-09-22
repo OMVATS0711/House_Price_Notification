@@ -1,0 +1,8 @@
+Ideas for Website application
+
+Points:
+  We will create a website where the user creates an account. He/She will enter the locality where they are comfertable, the website will find all the awailable housing.
+  There will be bedding system, where the user enter the bid accourding to the range price in a given time.
+  An notification will be send to the user via email or message about the bid like been accepted or someone has enter higher bid than his/her.
+  Accourding to the notification the user can increase the bid or drop the bid.
+  If the user has been selected then contact information of the realtor will be sent to him/her.
